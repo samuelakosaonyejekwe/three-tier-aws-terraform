@@ -1,0 +1,10 @@
+project_name = "three-tier"
+
+# Route53 hosted zone for example.com
+route53_zone_id = "Z04528632R5BM7739IM1B"
+
+# Record to create
+dns_name = "app.samproject.com"
+
+# DB password (DO NOT COMMIT real tfvars)
+db_master_password = "ChangeMeNow-UseASecretManagerLater"
