@@ -1,4 +1,4 @@
-# Three-Tier AWS Terraform (eu-west-2)
+# Three-Tier AWS Terraform (eu-west-2) ...
 
 ## Architecture
 - VPC across 2 AZs: eu-west-2a, eu-west-2b
